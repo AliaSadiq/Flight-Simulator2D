@@ -1,0 +1,57 @@
+Flight Path Simulator (2D) - Sample Output
+==========================================
+
+User Input:
+-----------
+Initial position: (0, 0)
+Speed: 5 units/sec
+Angle: 45°
+Time Step: 1 sec
+Number of Steps: 10
+Target Position: (30, 30)
+
+
+Simulation Output:
+------------------
+
+⏱️ Step: 1
+Position → X: 3.54, Y: 3.54
+Distance to target: 37.07
+
+⏱️ Step: 2
+Position → X: 7.07, Y: 7.07
+Distance to target: 32.07
+
+⏱️ Step: 3
+Position → X: 10.61, Y: 10.61
+Distance to target: 27.10
+
+⏱️ Step: 4
+Position → X: 14.14, Y: 14.14
+Distance to target: 22.13
+
+⏱️ Step: 5
+Position → X: 17.68, Y: 17.68
+Distance to target: 17.14
+
+⏱️ Step: 6
+Position → X: 21.21, Y: 21.21
+Distance to target: 12.17
+
+⏱️ Step: 7
+Position → X: 24.75, Y: 24.75
+Distance to target: 7.18
+
+⏱️ Step: 8
+Position → X: 28.28, Y: 28.28
+Distance to target: 2.21
+
+⏱️ Step: 9
+Position → X: 31.82, Y: 31.82
+Distance to target: 2.57
+
+✅ Target reached successfully (within 1.0 unit)!
+
+
+End of Simulation.
+==================

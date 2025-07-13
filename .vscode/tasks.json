@@ -1,0 +1,25 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build FlightSimulator2D",
+      "type": "shell",
+      "command": "g++",
+      "args": [
+        "-g",
+        "main.cpp",
+        "Point2D.cpp",
+        "Vehicle2D.cpp",
+        "Plane2D.cpp",
+        "-o",
+        "flight_sim"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": ["$gcc"],
+      "detail": "Builds all source files into flight_sim executable"
+    }
+  ]
+}
