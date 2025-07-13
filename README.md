@@ -1,7 +1,7 @@
 Flight Path Simulator (2D) - Mini Project
 =========================================
 
-Author     : [Your Name]
+Author     : Alia Sadiq
 Project    : 2D Flight Path Simulator
 Language   : C++ (Modular, Multi-file)
 IDE        : Visual Studio Code (VS Code)
