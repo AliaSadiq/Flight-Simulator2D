@@ -90,4 +90,3 @@ This project is structured using best practices for C++:
 - Object-oriented programming with clear inheritance
 - Easy to compile, understand, and extend
 
-It is ready for demonstration and submission for NASTP or similar technical evaluations.
